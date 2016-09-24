@@ -1,0 +1,19 @@
+{
+  "name": "misiv2",
+  "version": "0.0.1",
+  "description": "A.I for good",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwarb/misiV2.git"
+  },
+  "author": "jakamedia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwarb/misiV2/issues"
+  },
+  "homepage": "https://github.com/edwarb/misiV2#readme"
+}
